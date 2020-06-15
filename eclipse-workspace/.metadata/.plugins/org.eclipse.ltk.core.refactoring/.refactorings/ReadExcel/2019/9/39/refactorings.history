@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TreeView.java&apos; to &apos;com.example.TreeView.entity.TreeView.java&apos;&#x0A;- Original project: &apos;ReadExcel&apos;&#x0A;- Destination element: &apos;com.example.TreeView.entity.TreeView.java&apos;&#x0A;- Original element: &apos;com.example.TreeView.entity.TreeView.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.example.TreeView.entity{TreeView.java" element1="/src\/main\/java&lt;com.example.TreeView.entity{TreeView.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1569477786565" units="1" version="1.0"/>
+</session>

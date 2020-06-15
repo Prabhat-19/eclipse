@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/prabhat/eclipse-workspace/uppcl-search-mobile-app"/>
+			<item value="/Users/prabhat/Downloads/uppcl-search-mobile-app"/>
+			<item value="/Users/prabhat/kub-springboot/springboot-k8s-mysql/springboot-k8s-mysql"/>
+			<item value="/Users/prabhat/Downloads/23-spring-data-jpa-cruddemo 2"/>
+			<item value="/Users/prabhat/Docker/springboot/EmpCrudDemo"/>
+			<item value="/Users/prabhat/Downloads/Docker"/>
+			<item value="/Users/prabhat/Downloads/demo"/>
+			<item value="/Users/prabhat/uppcl_temp/uppcl-collection-dashboard/WebServices/UppclDashboard"/>
+			<item value="/Users/prabhat/uppcl_dev_19_Mar/uppcl-collection-dashboard/WebServices/UppclDashboard"/>
+			<item value="/Users/prabhat/UppclDashboard/uppcl-collection-dashboard/WebServices/UppclDashboard"/>
+			<item value="/Users/prabhat/uppcl_dev_pull/uppcl-collection-dashboard/WebServices/UppclDashboard"/>
+			<item value="/Users/prabhat/uppcl_12_Mar/uppcl-collection-dashboard/WebServices/UppclDashboard"/>
+			<item value="/Users/prabhat/File-upload/FileUpload"/>
+			<item value="/Users/prabhat/File_upload/FileUpload"/>
+			<item value="/Users/prabhat/Downloads/SateMachineProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/prabhat/eclipse-workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.demo.StateMachine_Git"/>
+			<item value="com.demo.ImportProject"/>
+			<item value="com.demo.Demo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="StateMachine_Git"/>
+			<item value="ImportProject"/>
+			<item value="Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

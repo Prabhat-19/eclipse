@@ -1,0 +1,9 @@
+List<EntityNameDto> listEntityName = new ArrayList<EntityNameDto>();
+		List<Object[]> list = db.findAllEntityname();
+		for (Object[] l : list) {
+			
+			EntityNameDto ent = new EntityNameDto();
+			ent.setEntityName(l[0].toString());
+			listEntityName.add(ent);
+		}
+		return listEntityName;

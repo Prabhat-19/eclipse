@@ -1,0 +1,18 @@
+//BranchProjectTracker__/Users/prabhat/Documents/javaApi/PayEarlyAPIs/.git_Adding_liquibase_and_Profilling=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/LedgerServices/payEarlyLedgerPart</project>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/Documents/javaApi/PayEarlyAPIs/.git_Delete_functionality=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/LedgerServices/payEarlyLedgerPart</project>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/Documents/javaApi/PayEarlyAPIs/.git_Payearly_revision=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/LedgerServices/payEarlyLedgerPart</project>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/Documents/javaApi/PayEarlyAPIs/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/LedgerServices/payEarlyLedgerPart</project>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/Documents/javaApi/PayEarlyAPIs/.git_test=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/LedgerServices/payEarlyLedgerPart</project>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/git/PayEarlyAPIs/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/git/Practice/.git_Feature=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/TreeView</project>\n<project>/TreeView_data</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/git/Practice/.git_Sample_Practice=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/Sample_29_Jan</project>\n<project>/TreeView</project>\n<project>/TreeView_data</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/git/Practice/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/Sample_29_Jan</project>\n<project>/TreeView</project>\n<project>/TreeView_data</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/gitFolder/PayEarlyAPIs/.git_Prabhat_16_Nov_6_PM=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/gitFolder/PayEarlyAPIs/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/IntegrationServices/payearly-server</project>\n</projects>
+//BranchProjectTracker__/Users/prabhat/uppcl_12_Mar/uppcl-collection-dashboard/.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/WebServices/UppclDashboard</project>\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>First Commit</message>\n<message>Adding Sample_29_Jan Project</message>\n<message>Added sysout</message>\n<message>\# WARNING\: head commit changed in the meantime&\#x0A;&\#x0A;Safe Commit</message>\n<message>safe commit</message>\n<message>api changes</message>\n<message>\# WARNING\: head commit changed in the meantime&\#x0A;&\#x0A;safe commit</message>\n<message>Modified Delete Functionality for entity.</message>\n<message>Added Bank API&apos;s.</message>\n</messages>
+eclipse.preferences.version=1
+resourcehistory_compare_mode=false
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
+resourcehistory_show_all_branches=true

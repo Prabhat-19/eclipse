@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AbstractAuditingEntity.java&apos; to &apos;UppclProject/src/main/java/com.uppcl.dashboard.domain&apos;&#x0A;- Original project: &apos;payearly-server&apos;&#x0A;- Destination element: &apos;UppclProject/src/main/java/com.uppcl.dashboard.domain&apos;&#x0A;- Original element: &apos;com.payearly.domain.AbstractAuditingEntity.java&apos;" description="Copy compilation unit" destination="=UppclProject/src\/main\/java&lt;com.uppcl.dashboard.domain" element1="/src\/main\/java&lt;com.payearly.domain{AbstractAuditingEntity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589635456462" units="1" version="1.0"/>
+</session>

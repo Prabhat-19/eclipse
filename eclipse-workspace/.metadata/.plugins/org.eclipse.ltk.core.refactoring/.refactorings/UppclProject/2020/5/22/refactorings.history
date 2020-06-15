@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;com.uppcl.dashboard.serviceImp.UppclDashboardServiceImpl.employeeDetails().subdivisionId&apos; in &apos;com.uppcl.dashboard.serviceImp.UppclDashboardServiceImpl.employeeDetails()&apos; to field&#x0A;- Original project: &apos;UppclProject&apos;&#x0A;- Original element: &apos;com.uppcl.dashboard.serviceImp.UppclDashboardServiceImpl.employeeDetails().subdivisionId&apos;&#x0A;- Field name: &apos;subdivisionId&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;" description="Convert local variable &apos;subdivisionId&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src\/main\/java&lt;com.uppcl.dashboard.serviceImp{UppclDashboardServiceImpl.java" name="subdivisionId" selection="3328 13" stamp="1590291225284" static="false" version="1.0" visibility="2"/>
+</session>

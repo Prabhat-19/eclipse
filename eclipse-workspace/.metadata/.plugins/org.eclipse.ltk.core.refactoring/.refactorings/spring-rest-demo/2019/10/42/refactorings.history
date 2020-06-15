@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StudentRestExceptionHandler.java&apos; to &apos;payearly/src/main/java/com.payearly.web.rest.errors&apos;&#x0A;- Original project: &apos;spring-rest-demo&apos;&#x0A;- Destination element: &apos;payearly/src/main/java/com.payearly.web.rest.errors&apos;&#x0A;- Original element: &apos;com.luv2code.springdemo.rest.StudentRestExceptionHandler.java&apos;" description="Copy compilation unit" destination="=payearly/src\/main\/java&lt;com.payearly.web.rest.errors" element1="/src\/main\/java&lt;com.luv2code.springdemo.rest{StudentRestExceptionHandler.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1571031751623" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,45 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.TreeMap;
+import java.util.concurrent.TimeUnit;
+
+class Main {
+	 
+	private static boolean stopRequested;
+    public static void main(String[] args)
+            throws InterruptedException {
+        Thread backgroundThread = new Thread(new Runnable() {
+            public void run() {
+                int i = 0;
+                while (!stopRequested)
+                {
+                    i++;
+                    System.out.println("i => "+i);
+                }
+                
+            }
+        });
+        backgroundThread.start();
+        TimeUnit.SECONDS.sleep(1);
+        stopRequested = true;
+    }
+		
+//		Map<String, String> books = new HashMap<>();
+//		books.put("6", "A");
+//		books.put("1", "Z");
+//		books.put("4", "Y");
+//		
+		// books.entrySet().stream().filter( i -> "Effective
+		// Java".equals(i.getValue())).map(Map.Entry<String,
+		// String>::getKey).forEach(System.out::println);
+		// books.entrySet().stream().filter(i
+		// ->"978-0134685991".equals(i.getKey())).map(i ->
+		// i.getValue()).forEach(System.out::println);
+
+	}
+
+
+
+// Value with 3 digits after decimal point 3.141500 

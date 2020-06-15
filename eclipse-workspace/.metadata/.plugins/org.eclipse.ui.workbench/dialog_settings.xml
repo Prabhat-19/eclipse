@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+			<item value="org.eclipse.buildship.ui.importwizards"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.pde.ui.PluginDevelopment"/>
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="411"/>
+		<item key="DIALOG_Y_ORIGIN" value="50"/>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="12"/>
+		<item key="DIALOG_Y_ORIGIN" value="-149"/>
+		<item key="DIALOG_WIDTH" value="686"/>
+		<item key="DIALOG_HEIGHT" value="635"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/prabhat/Export/Payearly_16_Nov_19.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_7_Nov_19.zip"/>
+			<item value="/Users/prabhat/Desktop/Untitled.zip"/>
+			<item value="/Users/prabhat/Export/Entity_Configurator_share_6_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Entity_Configurator_backup_6_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_Entity_Mapping_5th_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_24_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_23_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_21_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Final /Payearly.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_onboarding_18_Oct/Payearly_Onboarding_18_Oct.zip"/>
+			<item value="/Users/prabhat/Export/Payearly_onboarding_18_Oct/Untitled.zip"/>
+			<item value="/Users/prabhat/Export/Payearly.zip"/>
+			<item value="/Users/prabhat/war/Payearly_12_Oct.zip"/>
+			<item value="/Users/prabhat/Desktop/TreeViewCustom2.zip"/>
+			<item value="/Users/prabhat/Desktop/TreeViewCustom.zip"/>
+			<item value="/Users/prabhat/Desktop/TreeViewSample.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/prabhat/gitFolder/PayEarlyAPIs/IntegrationServices"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SwaggerConfig.java&apos; to &apos;springboot-k8s-mysql/src/main/java/com.example.k8s.springbootk8smysql&apos;&#x0A;- Original project: &apos;cruddemo&apos;&#x0A;- Destination element: &apos;springboot-k8s-mysql/src/main/java/com.example.k8s.springbootk8smysql&apos;&#x0A;- Original element: &apos;com.luv2code.springboot.cruddemo.SwaggerConfig.java&apos;" description="Copy compilation unit" destination="=springboot-k8s-mysql/src\/main\/java&lt;com.example.k8s.springbootk8smysql" element1="/src\/main\/java&lt;com.luv2code.springboot.cruddemo{SwaggerConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589122243021" units="1" version="1.0"/>
+</session>

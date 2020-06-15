@@ -1,0 +1,6 @@
+logging.level.org.springframework = info
+spring.datasource.url = jdbc:mysql://www.db4free.net:3306/check_demo?useSSL=false&serverTimezone=UTC
+spring.datasource.username = checl_demo
+spring.datasource.password = payearly
+# Show or not log for each sql query
+spring.jpa.show-sql = true

@@ -1,0 +1,52 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.TreeMap;
+
+class Main {
+	 
+	private static boolean running= false;
+	
+	
+
+	public static void main(String args[]) throws InterruptedException {
+		
+		new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				while(!running)
+				{
+					System.out.println("Thread is running");
+				}
+				while(running)
+				{
+					System.out.println("Thread has stopped");
+				}
+				
+			}
+		}).start();
+		
+		Thread.sleep(1000);
+		System.out.println("Stopping the thread");
+		running=true;
+		
+		
+//		Map<String, String> books = new HashMap<>();
+//		books.put("6", "A");
+//		books.put("1", "Z");
+//		books.put("4", "Y");
+//		
+		// books.entrySet().stream().filter( i -> "Effective
+		// Java".equals(i.getValue())).map(Map.Entry<String,
+		// String>::getKey).forEach(System.out::println);
+		// books.entrySet().stream().filter(i
+		// ->"978-0134685991".equals(i.getKey())).map(i ->
+		// i.getValue()).forEach(System.out::println);
+
+	}
+
+}
+
+// Value with 3 digits after decimal point 3.141500 

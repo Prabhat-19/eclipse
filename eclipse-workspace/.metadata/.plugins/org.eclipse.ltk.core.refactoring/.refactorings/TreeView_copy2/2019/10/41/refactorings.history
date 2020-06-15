@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TreeViewRepositoryCustomImpl.java&apos; to &apos;ManyToMany/src/main/java/com.example.TreeView.dao&apos;&#x0A;- Original project: &apos;TreeView_copy2&apos;&#x0A;- Destination element: &apos;ManyToMany/src/main/java/com.example.TreeView.dao&apos;&#x0A;- Original element: &apos;com.example.TreeView.dao.TreeViewRepositoryCustomImpl.java&apos;" description="Copy compilation unit" destination="=ManyToMany/src\/main\/java&lt;com.example.TreeView.dao" element1="/src\/main\/java&lt;com.example.TreeView.dao{TreeViewRepositoryCustomImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1570373113740" units="1" version="1.0"/>
+</session>

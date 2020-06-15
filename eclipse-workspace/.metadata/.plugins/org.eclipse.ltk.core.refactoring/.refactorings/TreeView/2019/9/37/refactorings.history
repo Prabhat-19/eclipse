@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.TreeView.Structure.MyTreeNode&apos; to &apos;Node&apos;&#x0A;- Original project: &apos;TreeView&apos;&#x0A;- Original element: &apos;com.example.TreeView.Structure.MyTreeNode&apos;&#x0A;- Renamed element: &apos;com.example.TreeView.Structure.Node&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyTreeNode&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.example.TreeView.Structure{MyTreeNode.java[MyTreeNode" matchStrategy="1" name="Node" qualified="false" references="true" similarDeclarations="false" stamp="1568009447770" textual="false" version="1.0"/>
+</session>
